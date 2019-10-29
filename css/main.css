@@ -31,7 +31,8 @@
 }
 
 h1 {
-    font-family:            'Bodoni Seventytwo ITC', sans-serif;
+	font-family:			'EB Garamond', serif;
+/*    font-family:            'Bodoni Seventytwo ITC', sans-serif;*/
     font-size:              8vw;
     box-sizing:             border-box;
 }
